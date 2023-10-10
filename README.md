@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 
 
 
-# Full Stack Web Developer 
+### Full Stack Web Developer 
 
 Currently, I'm crafting a Air Pollution Index App and refreshing my skills with Zero To Mastery: The Complete Web Developer
 
-# Resources
+### Resources
 📚 Check out my latest thoughts on tech and more on Medium.
 🌐 Explore my projects and professional journey on thekjcode.com.
 📄 For the nitty-gritty details, here's my Online CV.
 
-# Contact
+### Contact
 📬 Reach out to me via codedbykj@gmail.com.
 📈 Connect with me professionally on LinkedIn.
 
 
-# 🛠️ Tools and Technologies:
+#### 🛠️ Tools and Technologies:
 
 ⚛️ React.js
 🌐 Node.js
@@ -43,7 +43,7 @@ Currently, I'm crafting a Air Pollution Index App and refreshing my skills with 
 💎 Web3 & Ethers.js
 
 
-# 📊 My tech prowess:
+#### 📊 My tech prowess:
 
 Full Stack Development
 SEO Optimization
