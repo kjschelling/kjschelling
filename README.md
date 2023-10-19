@@ -53,5 +53,5 @@ SaaS Platforms
 Responsive Web Design
 
 
-📧 Email: codedbykj@gmail.com.com
-🌐 Personal Website: thekjcode.com
+📧 Email: codedbykj@gmail.com
+🌐 Website: thekjcode.com
