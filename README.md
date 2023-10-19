@@ -28,7 +28,7 @@ Currently, I'm crafting a Air Pollution Index App and refreshing my skills with 
 
 ### Contact
 📬 Reach out to me via codedbykj@gmail.com.
-📈 Connect with me professionally on LinkedIn.
+📈 Connect with me professionally on LinkedIn  https://www.linkedin.com/in/thekjcode/.
 
 
 #### 🛠️ Tools and Technologies:
@@ -54,4 +54,4 @@ Responsive Web Design
 
 
 📧 Email: codedbykj@gmail.com
-🌐 Website: thekjcode.com
+🌐 Website: https://thekjcode.com/
