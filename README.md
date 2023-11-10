@@ -15,43 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### Full Stack Web Developer 
 
 Currently, I'm crafting a Air Pollution Index App and refreshing my skills with Zero To Mastery: The Complete Web Developer
 
 ### Resources
-📚 Check out my latest thoughts on tech and more on Medium.
 🌐 Explore my projects and professional journey on thekjcode.com.
-📄 For the nitty-gritty details, here's my Online CV.
+📄 For the nitty-gritty details, here's my Online CV. 
+
+
+#### 📊 My Domain
+
+🎨 Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, Bulma
+📦 Backend Technologies: Node.js, Express.js
+🌟 Blockchain Technologies: Ethereum & Klayton, Web3 & Ethers.js
+📚 Responsive/ Mobile First Practices, Web Accessibility, SEO Optimization
+📊 Database Management: MongoDB, Mongoose
+🌐 RESTful API Design and Integration
+🧰 Version Control: Git, GitHub
+📦 Package Managers: npm, yarn
+🛠️ Build Tools: Webpack, Babel
+💎 Deployment and Hosting: Heroku, DreamHost, AWS
+📄 Agile Development and Scrum
 
 ### Contact
-📬 Reach out to me via codedbykj@gmail.com.
+📬 Reach out to me via 📧 codedbykj@gmail.com.
 📈 Connect with me professionally on LinkedIn  https://www.linkedin.com/in/thekjcode/.
-
-
-#### 🛠️ Tools and Technologies:
-
-⚛️ React.js
-🌐 Node.js
-💻 TypeScript
-🧰 Express
-📦 MongoDB
-🌟 Ethereum & Klayton Blockchains
-🎨 Tailwind, Bootstrap, Bulma
-💎 Web3 & Ethers.js
-
-
-#### 📊 My tech prowess:
-
-Full Stack Development
-SEO Optimization
-Smart Contract Integration
-AWS Deployment
-SaaS Platforms
-Responsive Web Design
-
-
-📧 Email: codedbykj@gmail.com
-🌐 Website: https://thekjcode.com/
+🌐 Personal Website: https://thekjcode.com/
