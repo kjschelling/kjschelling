@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Full Stack Web Developer 
+### Frontend Web Developer 
 
 Currently, I'm crafting a Air Pollution Index App and refreshing my skills with Zero To Mastery: The Complete Web Developer
 
