@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Frontend Web Developer 
+### Web Developer & Designer
 
-Currently, I'm crafting a Air Pollution Index App and refreshing my skills with Zero To Mastery: The Complete Web Developer
+Founder of Cagenci - Los Angeles based Web Development and Design Studio & The Cage Bazaar - LA Fashion & Lifestyle Blog
 
 ### Resources
 🌐 Explore my projects and professional journey on thekjcode.com.
 📄 For the nitty-gritty details, here's my Online CV. 
 
 
-
+#### Well Versed in all major web builders
+Wordpress, Squarespace, Wix, Webflow, Custom Products, Spotify
 
 #### 🎨 Frontend Technologies: 
 HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind, Bulma
@@ -49,4 +50,4 @@ Heroku, DreamHost, AWS
 ### Contact
 📬 Reach out to me via 📧 codedbykj@gmail.com.
 📈 Connect with me professionally on LinkedIn  https://www.linkedin.com/in/thekjcode/.
-🌐 Personal Website: https://thekjcode.com/
+🌐 Dev Studio: https://cagenci.com/
